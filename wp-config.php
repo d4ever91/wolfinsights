@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'Wolfinsights' );
+define( 'DB_NAME', 'wolfinsights' );
 
 /** MySQL database username */
-define( 'DB_USER', 'Wolfinsights' );
+define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '?Pf!B}eU7nWL' );
+define( 'DB_PASSWORD', '8807cb50362e0abf984e6dbe831af4cbe746a2af18ac5579' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
