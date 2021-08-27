@@ -1,0 +1,4 @@
+[24-Apr-2021 16:38:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/x4xdzef7626z/public_html/wp-content/plugins/duplicate-page/duplicatepage.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/x4xdzef7626z/public_html/wp-content/plugins/duplicate-page/duplicatepage.php on line 13

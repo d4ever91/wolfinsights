@@ -1,0 +1,12 @@
+[15-Feb-2021 15:16:21 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/x4xdzef7626z/public_html/wp-includes/functions.php on line 8
+[15-Feb-2021 15:16:21 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/x4xdzef7626z/public_html/wp-includes/functions.php on line 8
+[15-Feb-2021 15:16:21 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/x4xdzef7626z/public_html/wp-includes/functions.php on line 8
+[15-Feb-2021 15:16:21 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/x4xdzef7626z/public_html/wp-includes/functions.php on line 8
+[23-Jul-2021 00:30:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home/x4xdzef7626z/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/x4xdzef7626z/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[24-Jul-2021 03:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/x4xdzef7626z/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/x4xdzef7626z/public_html/wp-includes/locale.php on line 11
