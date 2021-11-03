@@ -13,7 +13,6 @@ if ( is_array( get_site_option( 'illegal_names' ) ) && isset( $_GET['new'] ) && 
 	wp_redirect( network_home_url() );
 	die();
 }
-
 /**
  * Prints signup_header via wp_head
  *
